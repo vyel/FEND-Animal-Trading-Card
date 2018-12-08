@@ -1,0 +1,59 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background: linear-gradient(to right, gray, white, gray);
+}
+
+.card-wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  width: 330px;
+  background: linear-gradient(to bottom, black, #1a2a5a);
+  border: 5px solid #9ea5b9;
+  border-radius: 25px;
+  box-shadow: -3px -3px 10px black, 3px 3px 10px black;
+}
+
+.animal-name {
+  margin: 5px 0 10px 0;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  border-bottom: 5px solid #9ea5b9;
+  border-radius: 30px;
+}
+
+.animal-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 300px;
+  border-top: 5px solid #1a2a5a;
+  border-bottom: 5px solid #1a2a5a;
+  border-radius: 50px;
+}
+
+.animal-information {
+  margin: 10px 10px 10px 10px;
+  background-color: #9ea5b9;
+  border-top: 5px solid #1a2a5a;
+  border-bottom: 5px solid #303f6a;
+  border-radius: 50px;
+}
+
+.key-fact {
+  padding: 0 15px 0 15px;
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: justify;
+}
+
+.facts-list { list-style: none; }
+
+.description {
+  padding: 0 15px 0 15px;
+  text-align: justify;
+}
+
+.bold { font-weight: bold; }
+
+.small-caps { font-variant: small-caps; }
