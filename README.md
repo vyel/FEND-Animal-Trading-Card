@@ -13,7 +13,7 @@ The scope of this project was to use our HTML and CSS skills (learned up to that
 1. Clone or download this repository
 2. Open index.html in a browser of your choice
 
-or check out the live version at https://vyel.github.io/FEND-Animal-Trading-Card
+or check out the live version at https://vyel.github.io/FEND-Animal-Trading-Card/
 
 ## Contributing
 
